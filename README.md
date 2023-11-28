@@ -1,6 +1,6 @@
 [![Build status](https://build.appcenter.ms/v0.1/apps/440542f5-06f9-4cf2-a0d4-f3f715689739/branches/main/badge)](https://appcenter.ms)
 
-Link download apk: install.appcenter.ms/orgs/shopping-list-ghana/apps/shopping-list/distribution_groups/public
+Link download apk: https://install.appcenter.ms/orgs/shopping-list-ghana/apps/shopping-list/distribution_groups/public
 
 # shopping_list_mobile
 
